@@ -6,7 +6,7 @@ gensim==2.2.0
 idna==2.5
 numpy==1.13.1
 progressbar2==3.33.2
-protobuf==3.3.0
+protobuf==3.18.3
 python-utils==2.2.0
 requests==2.18.1
 scipy==0.19.1
